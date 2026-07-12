@@ -1,17 +1,3 @@
-# English Free — Next.js
+# English Free v2
 
-## Chạy trên máy tính
-```bash
-npm install
-npm run dev
-```
-
-Mở http://localhost:3000
-
-## Upload lên GitHub
-Xóa các file HTML cũ trong repository rồi tải toàn bộ nội dung thư mục này lên.
-
-## Deploy Vercel
-- Import đúng repository `ENGLISH-FREE`
-- Framework Preset: Next.js
-- Bấm Deploy
+Bổ sung phiên âm IPA, cách đọc gần đúng và 6 cấu trúc ngữ pháp của Unit 1.

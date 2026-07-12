@@ -18,8 +18,7 @@ export default function Home() {
           <span className="eyebrow">HỌC TIẾNG ANH MIỄN PHÍ</span>
           <h1>Mỗi ngày một bài,<br />tự tin hơn mỗi ngày.</h1>
           <p>
-            Khóa học giao tiếp có từ vựng, ngữ pháp, luyện phản xạ,
-            bài kiểm tra và lưu tiến độ học ngay trên thiết bị.
+            Khóa học giao tiếp có phiên âm IPA, cách đọc gần đúng, cấu trúc ngữ pháp, luyện phản xạ và bài kiểm tra.
           </p>
           <a className="primaryButton" href="#unit1">Bắt đầu Unit 1</a>
         </div>

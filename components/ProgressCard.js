@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 
-const TOTAL_STEPS = 5;
+const TOTAL_STEPS = 6;
 
 export default function ProgressCard() {
   const [completed, setCompleted] = useState(0);
