@@ -1,0 +1,222 @@
+{
+  "id": 1,
+  "slug": "all-aboard",
+  "title": "All Aboard!",
+  "level": "Pre-intermediate",
+  "objectives": [
+    "Giới thiệu tên, quê quán và nghề nghiệp.",
+    "Hỏi vị trí của một địa điểm.",
+    "Dùng lời chào lịch sự khi mới gặp.",
+    "Hỏi số lượng và mời đồ uống lịch sự."
+  ],
+  "dialogue": [
+    {
+      "speaker": "A",
+      "english": "Hello. My name's Charles Beatty. I'm from Chicago.",
+      "vietnamese": "Xin chào. Tôi tên là Charles Beatty. Tôi đến từ Chicago."
+    },
+    {
+      "speaker": "B",
+      "english": "Pleased to meet you. I'm Wendy Hillman.",
+      "vietnamese": "Rất hân hạnh được gặp bạn. Tôi là Wendy Hillman."
+    },
+    {
+      "speaker": "A",
+      "english": "Where do you come from?",
+      "vietnamese": "Bạn đến từ đâu?"
+    },
+    {
+      "speaker": "B",
+      "english": "I come from Stirling.",
+      "vietnamese": "Tôi đến từ Stirling."
+    },
+    {
+      "speaker": "A",
+      "english": "Oh, where's that?",
+      "vietnamese": "Ồ, nơi đó ở đâu?"
+    },
+    {
+      "speaker": "B",
+      "english": "It's in Scotland.",
+      "vietnamese": "Nó ở Scotland."
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "aboard",
+      "ipa": "/əˈbɔːd/",
+      "easy": "ờ-BOĐ",
+      "partOfSpeech": "adverb / preposition",
+      "meaning": "ở trên tàu; lên tàu",
+      "example": "All passengers are aboard the ship.",
+      "translation": "Tất cả hành khách đã ở trên tàu."
+    },
+    {
+      "word": "passenger",
+      "ipa": "/ˈpæsɪndʒə(r)/",
+      "easy": "PÁ-si-n-jờ",
+      "partOfSpeech": "noun",
+      "meaning": "hành khách",
+      "example": "The passengers are on deck.",
+      "translation": "Các hành khách đang ở trên boong tàu."
+    },
+    {
+      "word": "crew",
+      "ipa": "/kruː/",
+      "easy": "kru",
+      "partOfSpeech": "noun",
+      "meaning": "thủy thủ đoàn; tổ phục vụ",
+      "example": "The crew are preparing dinner.",
+      "translation": "Tổ phục vụ đang chuẩn bị bữa tối."
+    },
+    {
+      "word": "cruise",
+      "ipa": "/kruːz/",
+      "easy": "kruz",
+      "partOfSpeech": "noun",
+      "meaning": "chuyến du lịch bằng tàu",
+      "example": "They are on a Mediterranean cruise.",
+      "translation": "Họ đang đi du lịch bằng tàu trên Địa Trung Hải."
+    },
+    {
+      "word": "deck",
+      "ipa": "/dek/",
+      "easy": "đéc",
+      "partOfSpeech": "noun",
+      "meaning": "boong tàu",
+      "example": "Most people are standing on deck.",
+      "translation": "Hầu hết mọi người đang đứng trên boong tàu."
+    },
+    {
+      "word": "captain",
+      "ipa": "/ˈkæptɪn/",
+      "easy": "KÁP-tịn",
+      "partOfSpeech": "noun",
+      "meaning": "thuyền trưởng",
+      "example": "The captain is talking to the crew.",
+      "translation": "Thuyền trưởng đang nói chuyện với thủy thủ đoàn."
+    },
+    {
+      "word": "foreigner",
+      "ipa": "/ˈfɒrənə(r)/",
+      "easy": "FO-rờ-nờ",
+      "partOfSpeech": "noun",
+      "meaning": "người nước ngoài",
+      "example": "There are many foreigners on the ship.",
+      "translation": "Có nhiều người nước ngoài trên tàu."
+    },
+    {
+      "word": "nationality",
+      "ipa": "/ˌnæʃəˈnæləti/",
+      "easy": "na-shờ-NÁ-lờ-ti",
+      "partOfSpeech": "noun",
+      "meaning": "quốc tịch",
+      "example": "What is your nationality?",
+      "translation": "Quốc tịch của bạn là gì?"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Giới thiệu tên",
+      "pattern": "My name is + tên. / I'm + tên.",
+      "examples": [
+        "My name is Ngan.",
+        "I'm Ngan."
+      ],
+      "commonMistake": "Không nói: My name Ngan.",
+      "tip": "I'm... tự nhiên hơn trong giao tiếp."
+    },
+    {
+      "title": "Hỏi quê quán",
+      "pattern": "Where do + subject + come from?",
+      "examples": [
+        "Where do you come from?",
+        "I'm from Vietnam."
+      ],
+      "commonMistake": "Sai: Where are you come from?",
+      "tip": "Câu hiện đại thường dùng: Where are you from?"
+    },
+    {
+      "title": "Hỏi vị trí",
+      "pattern": "Where is + địa điểm?",
+      "examples": [
+        "Where is Stirling?",
+        "It's in Scotland."
+      ],
+      "commonMistake": "Không bỏ động từ is.",
+      "tip": "Where's là dạng viết tắt của Where is."
+    },
+    {
+      "title": "Hỏi nghề nghiệp",
+      "pattern": "What do you do?",
+      "examples": [
+        "I work in logistics.",
+        "I'm a QC specialist."
+      ],
+      "commonMistake": "Không trả lời bằng quê quán.",
+      "tip": "Đây là câu hỏi về nghề nghiệp."
+    },
+    {
+      "title": "Mời lịch sự",
+      "pattern": "Would you like + noun?",
+      "examples": [
+        "Would you like another drink?",
+        "Yes, please. / No, thanks."
+      ],
+      "commonMistake": "Không dùng want trong tình huống cần lịch sự.",
+      "tip": "Would you like... lịch sự hơn Do you want...?"
+    },
+    {
+      "title": "Hỏi số lượng",
+      "pattern": "How many + plural noun + are there?",
+      "examples": [
+        "How many passengers are there?",
+        "There are about one hundred passengers."
+      ],
+      "commonMistake": "How many đi với danh từ đếm được số nhiều.",
+      "tip": "How much dùng với danh từ không đếm được."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Câu nào nghĩa là “Rất vui được gặp bạn”?",
+      "options": [
+        "Nice to meet you.",
+        "Nice to miss you.",
+        "Nice meet you."
+      ],
+      "answer": 0,
+      "explanation": "Meet là gặp; miss là nhớ hoặc bỏ lỡ."
+    },
+    {
+      "question": "Where do you come from? hỏi về điều gì?",
+      "options": [
+        "Nghề nghiệp",
+        "Quê quán / nơi đến từ",
+        "Tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Câu này hỏi một người đến từ đâu."
+    },
+    {
+      "question": "Câu trả lời đúng cho What do you do? là:",
+      "options": [
+        "I work in logistics.",
+        "I'm from Vietnam.",
+        "I'm thirty."
+      ],
+      "answer": 0,
+      "explanation": "What do you do? thường hỏi nghề nghiệp."
+    },
+    {
+      "question": "Cấu trúc hỏi số lượng danh từ đếm được là:",
+      "options": [
+        "How much + plural noun",
+        "How many + plural noun",
+        "How old + noun"
+      ],
+      "answer": 1,
+      "explanation": "How many dùng với danh từ đếm được số nhiều."
+    }
+  ]
+}
